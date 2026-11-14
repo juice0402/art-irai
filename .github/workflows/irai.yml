@@ -1,0 +1,32 @@
+# 依頼書の PR（ブランチ irai/）を自動でマージする。決まりは scripts/irai.mjs と README.md
+name: 依頼の自動マージ
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: irai-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  irai:
+    if: startsWith(github.head_ref, 'irai/') && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # 判定のプログラムは PR のものではなく main のものを使う
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node --test test/*.test.mjs
+      - run: node scripts/irai.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
