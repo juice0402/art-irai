@@ -1,6 +1,6 @@
 # 絵の依頼箱（art-irai）
 
-いろいろなゲームやサイトのチャット（Claude）が、Codex に絵を頼む箱。Codex（ChatGPT Plus の中・追加の料金なし・API キーなし）が毎晩ここの依頼書を読んで描き、PR を出す。決まりのもとはプロジェクトの claude/game-art-rule.md（「AI の絵の道具の使い分け」で Codex になった絵だけをここに頼む。まずは Canva）。
+いろいろなゲームやサイトのチャット（Claude）が、Codex に絵を頼む箱。チャットが GitHub のコメントで `@codex` と頼むと、Codex（ChatGPT Plus の中・追加の料金なし・API キーなし）がここの依頼書を読んで描き、カギ（GH_TOKEN）で自分で push して PR を出す。決まりのもとはプロジェクトの claude/game-art-rule.md（「AI の絵の道具の使い分け」で Codex になった絵だけをここに頼む。まずは Canva）。
 
 ## 置き場所
 - `requests/<記号>/<名前>.md`：依頼書（ひな形は `requests/_hinagata.md`）。<記号> はゲームやサイトの記号（okashi・tower など）
@@ -13,7 +13,11 @@
 2. `requests/_hinagata.md` を `requests/<記号>/<名前>.md` に写して書く。英語の「画像への指示」に、ほかの作品の名前・キャラの名前・作家の名前・「〇〇風」・会社の名前を入れない。編集なら元の絵を `sources/<記号>/` に置く
 3. push して gh api で PR（題「依頼：<記号> <何の絵か>」）
 4. 依頼書と元の絵だけの PR は、Actions「依頼の自動マージ」が1分ほどで main に入れる（「マージして」は要らない）。ほかのファイルが入っていると、PR にコメントして止まる
-5. 毎晩、Codex が `状態：依頼中` を描いて PR（題「絵：…」・ブランチ `art/…`）を出す。急ぐときは、しょーくんが Codex の画面（環境 art-irai）で「AGENTS.md の決まりで依頼中を描いて、PR を作って」と送る
+5. main に入ったら、issue #3「Codex への頼み口」に gh api でコメントする（1行目から）
+```
+@codex AGENTS.md の決まりで、requests/ の「状態：依頼中」を描いて、カギで送って PR を作って
+```
+6. Codex が描いて、PR（題「絵：…」・ブランチ `art/…`）を出す。ほかのチャットの依頼中もいっしょに描く（多くて3つ）。動かないときは、しょーくんが Codex の画面（環境 art-irai）で同じ文を送る（予備）
 
 ## 受けとり方（朝）
 1. Codex の PR の絵を見て合否を決める（大事な見本の絵はしょーくんの OK）
@@ -25,8 +29,8 @@
 ## 気をつけること
 - ChatGPT Plus の利用枠は全ゲームで共通（絵は文字の作業の3〜5倍）。Codex は1回に多くて3つ。1つのチャットが同時に「依頼中」にするのは2つまで
 - 透明の背景は作れない。無地の緑 #00FF00（光るものは真っ黒 #000000）で描かせて抜く
-- GitHub のコメントの @codex は使わない（旧 Codex Cloud の作業になり、PR にするのに Codex の画面でボタンが要る）
-- Codex のスケジュールではモデルと推論の設定は使えない
+- Codex のスケジュールは使えない（11/15 monmusu で試した：ChatGPT のタスクとして動き、リポジトリに入れなかった）
+- カギ：GitHub の fine-grained token（art-irai だけ・Contents と Pull requests の書きこみ・90日）を、旧 Codex Cloud の環境 juice0402/art-irai の「環境変数」`GH_TOKEN` に入れる（シークレットは作業中に消えるので使わない）。インターネットはカスタムドメイン `github.com, api.github.com` だけ・読み取り専用はオフ。切れる前にしょーくんが作り直して貼りかえる
 - fanza の絵はここに頼まない。monmusu は自分のリポジトリ（monster-girls-rpg）の art-requests で動いているのでそのまま
 
 ## 自動マージの決まり（scripts/irai.mjs）
