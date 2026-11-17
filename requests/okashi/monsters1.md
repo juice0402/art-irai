@@ -1,6 +1,6 @@
 # 食材モンスター2体（ぷるぷるスライム・くもひつじ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ Two separate cute fantasy food monsters side by side with wide spacing, matching
 - 夜にお店を襲撃する食材モンスター。夜の舞台の右側に立つので左向き。取りこむときは左右半分に切って緑を抜く（mon-slime・mon-hitsuji）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。mon-slime・mon-hitsuji として取りこんだ

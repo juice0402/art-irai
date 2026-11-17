@@ -1,6 +1,6 @@
 # ほのかのクッキー：★2を2つと★3の特製クッキー
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate cookie illustrations side by side with wide even spacing, matchin
 - 合格したら、ほかの★2クッキーと★3 の特製を同じ書き方で頼む
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。candy-cookie-bata・candy-cookie-sato・special-cookie-tower として取りこんだ
