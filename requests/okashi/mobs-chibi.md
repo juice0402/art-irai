@@ -1,6 +1,6 @@
 # 食材モンスターのデフォルメのモブ5体（スライム・くもひつじ・こんぺいトカゲ・ほのお鳥のひよこ・しずくクラゲ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -31,4 +31,4 @@ Three separate tiny cute fantasy food monster mascots in a row with wide spacing
 - 取りこむときは左右半分・3等分に切って緑を抜く（mob-slime・mob-hitsuji・mob-tokage・mob-hiyoko・mob-kurage）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。mob-slime・mob-hitsuji・mob-tokage・mob-hiyoko・mob-kurage として取りこんだ（舞台の賑やかしのモブ）
