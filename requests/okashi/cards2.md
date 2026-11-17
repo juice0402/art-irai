@@ -1,6 +1,6 @@
 # モンスター食材のカード3つ（リーフフェアリーの粉・ゴーゴーヤギのバター・おばけ樹木のまき）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate fantasy cooking ingredient illustrations side by side with wide e
 - 合格したら、同じ書き方で残りの食材・道具を3つずつ頼む
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。card-komugi・card-bata・card-maki として取りこんだ
