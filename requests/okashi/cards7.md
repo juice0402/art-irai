@@ -1,6 +1,6 @@
 # ほのかの道具カード：火種・クラゲの水・やきごて
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ Three separate fantasy baking tools side by side with wide even spacing, matchin
 - 道具（ほのかのビルドどうしで共通）。左＝ひだねサラマンダーの火種（card-hiokoshi）・まんなか＝しずくクラゲの水（card-mizu）・右＝サラマンダーのやきごて（card-yakigote）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。card-hiokoshi・card-mizu・card-yakigote として取りこんだ

@@ -1,6 +1,6 @@
 # ほのかの道具とフィールド：よびりん・鉄板・石窯
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ Three separate fantasy bakery objects side by side with wide even spacing, match
 - 左＝かまど職人のよびりん（card-yobirin・道具）・まんなか＝ほのかの鉄板（field-teppan・フィールド）・右＝ごうごう石窯（field-ishigama・フィールド）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。card-yobirin・field-teppan・field-ishigama として取りこんだ
