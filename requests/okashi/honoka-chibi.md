@@ -1,6 +1,6 @@
 # ほのかのデフォルメ（ちびキャラ）3ポーズ：考える・応援・すわってにこにこ（画面の賑やかし）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -35,4 +35,4 @@ Redraw this same girl as a cute super-deformed chibi mascot, about two heads tal
 - 取りこむときは緑を抜いて、体のまわりで切る（honoka-chibi-think・honoka-chibi-cheer・honoka-chibi-sit）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。chibi-think・chibi-cheer・chibi-sit として、まぜまぜおかし屋の assets/art に取りこんだ（舞台の賑やかし）
