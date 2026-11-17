@@ -1,6 +1,6 @@
 # ほのかの生地カード：しめくくり生地・ほろにが生地・クッキー生地
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate balls of raw cookie dough side by side with wide even spacing, ma
 - カードの絵の窓に入れる。物だけを大きく
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。card-shime・card-horoniga・card-komugi（粉の袋の絵から差しかえ） として取りこんだ
