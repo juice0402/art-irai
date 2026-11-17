@@ -1,6 +1,6 @@
 # ★2のお菓子の形：ドロップ・ゼリー・シュー
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ Three separate sweets side by side with wide even spacing, matching the center c
 - ★2 のお菓子の形。左＝ドロップ（candy-candy）・まんなか＝ゼリー（candy-jelly）・右＝シュー（candy-puff）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。candy-candy・candy-jelly・candy-puff として取りこんだ
