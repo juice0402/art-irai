@@ -1,6 +1,6 @@
 # ほのかの素材カード：トカゲ砂糖・ほのおたまご・ゴーレムチョコ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate fantasy baking ingredients side by side with wide even spacing, m
 - カードの絵の窓に入れる。物だけを大きく
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。card-sato・card-tamago・card-choco として取りこんだ
