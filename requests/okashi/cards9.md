@@ -1,6 +1,6 @@
 # 焼きすぎのクッキー：焦げ・焦げ焦げ・すみび
 
-状態：依頼中
+状態：済
 依頼日：2026-11-17
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ Three separate burnt cookies side by side with wide even spacing, matching the c
 - 焦げのカード（仕入れには出ない）。左＝焦げクッキー★1（burnt-1）・まんなか＝焦げ焦げクッキー★2（burnt-2）・右＝すみびクッキー★3（burnt-3）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/17）。burnt-1・burnt-2・burnt-3 として取りこんだ
