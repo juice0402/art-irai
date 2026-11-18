@@ -1,6 +1,6 @@
 # お客さん4人の うれしい・ざんねん の顔（customers1 の編集）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -60,4 +60,4 @@ Keep the same grandmother, white hair bun, round glasses, lavender cardigan, cre
 - ゲームの名前は `cust-<人>-ureshii`・`cust-<人>-zannen`（人＝kodomo・gakusei・otona・obaachan）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 2026-11-18 合格（PR #45）。8まいとも点検どおり（同じ人・同じ大きさ・表情だけ）。ゲームに cust-<id>-happy・cust-<id>-sad で取りこんだ
