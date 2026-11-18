@@ -1,6 +1,6 @@
 # わかば（草のパティシエ）の立ち絵：見た目の見本
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Full-body character illustration of a gentle, easygoing young woman pastry chef 
 - 取りこむ名前は wakaba（one … 760）。描けたら sources/okashi/wakaba.png に置いて、wakaba-poses・title-wakaba・wakaba-battle を頼む
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 23時55分 合格（PR #99）。mazemaze-okashiya の main に取りこんだ。sources/okashi/wakaba.png に置いた

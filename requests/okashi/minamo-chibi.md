@@ -1,6 +1,6 @@
 # みなものデフォルメ3まい（ショップのヒント用）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：元の絵を編集する
@@ -25,4 +25,4 @@ Three separate chibi (2 to 3 heads tall) versions of the same girl from the orig
 - 取りこむ名前は minamo-chibi-think・minamo-chibi-cheer・minamo-chibi-sit（`prep_art.py three … 320 --strict`）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 23時55分 合格（PR #97）。mazemaze-okashiya の main に取りこんだ

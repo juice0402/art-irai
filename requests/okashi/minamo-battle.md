@@ -1,6 +1,6 @@
 # みなもの戦闘ポーズ6まい（右向き）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -50,4 +50,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - みなものビルドを作るとき POSE の形を足す。minamo が届いてから依頼中にする
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 23時55分 合格（PR #100）。mazemaze-okashiya の main に取りこんだ

@@ -1,6 +1,6 @@
 # ★3のタワー：菓子パンの6つ（こね生地）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@
 - 取りこむときは `prep_art.py parts … special-melonpan-tower special-creampan-tower special-roll-tower special-anpan-tower special-koronet-tower special-pan-tower`（上限300）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 23時55分 合格（PR #98）。mazemaze-okashiya の main に取りこんだ
