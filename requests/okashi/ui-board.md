@@ -1,6 +1,6 @@
 # UI：調理台・おなかの帯・マス・コイン・火力のメーター・値札
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), items in four 
 - 1＝調理台（.tiles）／2＝おなかの帯（.quota）／3＝空きマス（.tslot）・場のマス（.fslot）・コイン／4＝火力のメーター（.heat-bar）・値札（.sh-price）・まぜの札（.mixmark）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。ui-board-tray・ui-quota・ui-slot・ui-fslot・ui-coin・ui-heat・ui-price・ui-ribbon として取りこんだ（ミントのリボンは緑に近いので、prep_art.py の --strict で純な緑だけ抜いた）
