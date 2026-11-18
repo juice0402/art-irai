@@ -1,6 +1,6 @@
 # UI：陳列棚（木の棚板・カゴ・飾り棚の枠）・看板・オーブン・評判のびん
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18（16時すぎに棚を木の棚＋カゴに直した）
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -27,4 +27,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), six separate i
 - 取りこむときは `prep_art.py parts … ui-shelf-board ui-basket ui-kanban ui-oven ui-jar ui-cabinet`（上の段から左→右）。皮はリーダーが style.css の「UI の絵」で入れる（昼のチャットには「いまは .dcase・.dslot の見た目を直さないで」と伝える）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時 合格（PR #67）。棚板・カゴ・看板・飾り棚の外わくを使った（mazemaze-okashiya main 4a42ab2）。4 オーブンは朝のキッチンの背景にもう描いてあるので使わない・5 びんはガラスに背景の緑がすけるので使わず ui-day2 の ui-jar（中がぬける形）を使う

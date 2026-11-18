@@ -1,6 +1,6 @@
 # UI：計算の札4色＋焦げの札・発動のメダルのふち
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), items in two r
 - 札は 9分割（左右のはしを角・まんなかをのばす）。取りこむときは `prep_art.py parts … ui-chip-gold ui-chip-ember ui-chip-pink ui-chip-mint ui-medal-ring ui-chip-koge`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時 合格（PR #66）。札4色＋こげ茶・メダルのふち、どれも点検のとおり。ミントの札は緑に近く、ふつうの抜き方では下半分が消えたので、外の緑だけをつながっている所で抜いた。mazemaze-okashiya main 4a42ab2 で .fchip と .fh-ico に皮
