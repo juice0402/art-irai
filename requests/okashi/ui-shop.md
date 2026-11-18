@@ -11,13 +11,13 @@
 年齢区分：全年齢
 保存先：`out/okashi/ui-shop.png`
 ブランチ：`art/okashi-ui-shop`
-点検：参考の絵と同じ画風／上にいちごの赤とクリーム色のしましまの日よけ（下のふちは波形・真ちゅうの棒）／その下は、はちみつ色の木の板（たての板）・こげ茶のふちと真ちゅうの細い線／板の上には何もない（あとでカードと字をのせる）／字が入っていない
+点検：参考の絵と同じ画風／上にいちごの赤とクリーム色のしましまの日よけ（下のふちは波形・真ちゅうの棒）／その下は、はちみつ色の木の板（たての板）・こげ茶のふちと真ちゅうの細い線／板の上には何もない（あとでカードと字をのせる）／9つに切れる形（角・辺・まんなかがはっきり分かれる・角の飾りは角の中だけ・辺は無地か切れ目の目立たないくり返しの模様で、辺のまんなかに飾りがない・まんなかは無地）／棒の丸いはしは上の2すみ・日よけのしまと波形は同じはばでくり返す／字が入っていない
 
 ## 画像への指示（このまま使う）
 
 1.
 ```
-A tall portrait game shop panel filling the image on a flat solid green background (#00FF00). At the top, a striped strawberry red and cream fabric awning with a scalloped lower edge, hanging from a thin brass rod with round brass ends. Below the awning, a back board of warm honey-brown vertical wooden planks with a soft vignette, framed by a thin dark wood border with a brass inner line. The plank area is plain and even with no objects on it, so cards and text can be placed on top later. Soft anime painterly shading matching the first reference image, warm lighting, front view, no text, no letters, no items, no people.
+A tall portrait game shop panel filling the image on a flat solid green background (#00FF00). At the top, a striped strawberry red and cream fabric awning with a scalloped lower edge, hanging from a thin brass rod with round brass ends. Below the awning, a back board of warm honey-brown vertical wooden planks with a soft vignette, framed by a thin dark wood border with a brass inner line. The plank area is plain and even with no objects on it, so cards and text can be placed on top later. The panel is a nine-slice asset: the round ends of the brass rod sit in the top corners, the awning stripes and scallops repeat evenly along the top so it can be stretched or repeated sideways, the left, right and bottom borders are plain and the same thickness, and the plank area is plain. Soft anime painterly shading matching the first reference image, warm lighting, front view, no text, no letters, no items, no people.
 ```
 
 ## Claude のメモ

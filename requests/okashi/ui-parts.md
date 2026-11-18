@@ -11,17 +11,17 @@
 年齢区分：全年齢
 保存先：`out/okashi/ui-parts.png`
 ブランチ：`art/okashi-ui-parts`
-点検：参考の絵と同じ画風／4つが2×2に分かれている／1 炎の形の紋章（オレンジと赤の炎・金のふち・まんなかは無地の丸）／2 ふっくらした金の星／3 ななめの横長の帯（キャラメル色・クリーム色のステッチ・はしが折れている・まんなか無地）／4 花の形の赤いハンコの跡（まんなか無地・インクのむら）／字・数字が入っていない
+点検：参考の絵と同じ画風／4つが2×2に分かれている／1 炎の形の紋章（オレンジと赤の炎・金のふち・まんなかは無地の丸）／2 ふっくらした金の星／3 まっすぐな横長の帯（ななめにしない・キャラメル色・ふちにクリーム色のステッチ・左右のはしが折れている・まんなか無地で横にのばせる）／4 花の形の赤いハンコの跡（まんなか無地・インクのむら）／字・数字が入っていない
 
 ## 画像への指示（このまま使う）
 
 1.
 ```
-A game UI asset sheet on a flat solid green background (#00FF00), four separate items in a two-by-two grid with wide even spacing, each centered in its quarter, front view, no text, no letters, no numbers. Style: cozy sweets shop. Soft anime painterly shading matching the first reference image, warm lighting. Top left: a flame-shaped emblem badge of glossy orange and red fire with a gold outline and a plain round cream center. Top right: a single plump shiny gold star with a soft highlight. Bottom left: a long slanted banner ribbon about five times wider than tall, warm caramel brown with cream stitching and folded ends, plain in the middle. Bottom right: a round red rubber stamp mark shaped like a flower with an empty plain center, slightly uneven like real ink. No shadows on the background.
+A game UI asset sheet on a flat solid green background (#00FF00), four separate items in a two-by-two grid with wide even spacing, each centered in its quarter, front view, no text, no letters, no numbers. Style: cozy sweets shop. Soft anime painterly shading matching the first reference image, warm lighting. Top left: a flame-shaped emblem badge of glossy orange and red fire with a gold outline and a plain round cream center. Top right: a single plump shiny gold star with a soft highlight. Bottom left: a long straight horizontal banner ribbon about five times wider than tall, not slanted, warm caramel brown with cream stitching along both long edges and folded ends at the left and right, plain in the middle so it can be stretched sideways. Bottom right: a round red rubber stamp mark shaped like a flower with an empty plain center, slightly uneven like real ink. No shadows on the background.
 ```
 
 ## Claude のメモ
-- 1＝カードとタイルの味パワーの紋章（powBadge・数字はコード）／2＝★／3＝おもてなしのはじめのななめの帯（battleIntro）／4＝ラウンドの結果のハンコ（まんぞく！の字はコード）
+- 1＝カードとタイルの味パワーの紋章（powBadge・数字はコード）／2＝★／3＝おもてなしのはじめのななめの帯（battleIntro・ななめはコードで回す・9つに切って横にのばす）／4＝ラウンドの結果のハンコ（まんぞく！の字はコード）
 
 ## Claude の確認（ここは依頼したチャットが書く）
 - まだ
