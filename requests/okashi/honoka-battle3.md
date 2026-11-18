@@ -1,6 +1,6 @@
 # ほのかの戦闘ポーズ その2（支援・火力アップ・火力ダウン・こねる・場を置く・焦げた）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -51,4 +51,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - 取りこむときは元の絵（honoka-battle）と同じ四角で切る（prep_art.py の box）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時すぎ 合格（PR #70）。6まいとも同じ女の子・右向き。honoka-battle と同じ四角で切った（mazemaze-okashiya main ba3e28f）

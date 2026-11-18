@@ -1,6 +1,6 @@
 # お客さん4人の正面の絵（ふつうの顔・ファンタジーの町の人に描きなおし）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -41,4 +41,4 @@ A warm elderly witch grandmother with white hair in a neat round bun and small r
 - 描けたら、この4まいを sources/okashi/cust2-<id>.png に置いて、customers4（うれしい・ざんねん）を依頼中にする
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時すぎ 合格（PR #71）。4まいを cust-<id> に入れかえ（mazemaze-okashiya main ba3e28f）。sources/okashi/cust2-<id>.png に置いて customers4 を依頼中に

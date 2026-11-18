@@ -1,6 +1,6 @@
 # ほのかの戦闘ポーズ（チャージ・攻撃3段・必殺技・決めポーズ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -51,4 +51,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - 取りこむときは元の絵（honoka-battle）と同じ四角で切る（prep_art.py の box）。舞台では右向きのまま使う
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時すぎ 合格（PR #69）。6まいとも同じ女の子・右向き・木のヘラ。honoka-battle と同じ四角で切り、はみ出す炎ははしをぼかした（mazemaze-okashiya main ba3e28f）

@@ -1,6 +1,6 @@
 # UI：昼の小物（営業中の札・評判のハートのびん・思っている吹き出しと しっぽ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), four separate 
 - 取りこむときは `prep_art.py parts … ui-sign ui-jar ui-think ui-think-tail`（上の段から左→右）。皮はリーダーが style.css の「UI の絵」で入れる
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時すぎ 合格（PR #72）。札・びん（中がぬける）・思っている吹き出しと丸2つを使った（mazemaze-okashiya main ba3e28f）
