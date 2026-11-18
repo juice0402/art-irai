@@ -1,6 +1,6 @@
 # お客さんの見た目ちがい（-3 の4人）のうれしい・ざんねんの顔
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -60,4 +60,4 @@ Keep the same person, hair, outfit, accessories, colors, art style, and front-fa
 - 取りこむ名前は cust-<id>-3-happy（奇数の段）・cust-<id>-3-sad（偶数の段）・`prep_art.py one … 480`
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 22時 合格（PR #84）。cust-<id>-3-happy・-sad（main 06050a0）

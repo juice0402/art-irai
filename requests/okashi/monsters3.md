@@ -1,6 +1,6 @@
 # レアモンスター：にじいろクラゲ・ミントうさぎ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ Two separate cute fantasy creatures side by side with wide spacing, both facing 
 - レアモンスター（にじいろクラゲ5日目から・ミントうさぎ11日目から）。取りこむ名前は mon-nijikurage・mon-mintousagi（two・上限520）。ミントは --strict
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 22時 合格（PR #82）。mon-nijikurage・mon-mintousagi（main 06050a0）

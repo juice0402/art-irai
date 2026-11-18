@@ -1,6 +1,6 @@
 # みなも（水の飴細工職人）の立ち絵：見た目の見本
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Full-body character illustration of a cool, quiet candy-sculpting artisan girl i
 - 取りこむ名前は minamo（`prep_art.py one … 760`）。描けたら sources/okashi/minamo.png に置いて、minamo-poses・title-minamo・minamo-battle を頼む
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 22時 合格（PR #81）。水色のひとつ結び・作務衣・飴ばさみ。--strict で取りこみ（mazemaze-okashiya main 06050a0）。sources/okashi/minamo.png に置いた
