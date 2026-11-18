@@ -1,6 +1,6 @@
 # みなもの立ち絵ストック9まい（第2弾）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -65,4 +65,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - 取りこむ名前は minamo-hohoemi・minamo-mutt・minamo-sashidasu・minamo-yomu・minamo-akubi・minamo-shiteki・minamo-tobinoku・minamo-udemakuri・minamo-tefuri（minamo と同じ四角で box・上限760・--strict）。会話の faces にも足す
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/19 1時 合格（PR #112）。mazemaze-okashiya の assets/art-stock/ にストック
