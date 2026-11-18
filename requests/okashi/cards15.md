@@ -1,6 +1,6 @@
 # こね生地：パン種・力のめん棒・軽量めん棒（フィールド）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate fantasy bakery items side by side with wide even spacing, matchin
 - 取りこむときは `prep_art.py three … card-panetane field-menbo field-karumenbo <上限>`
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 22時45分 合格（PR #85）。mazemaze-okashiya main fff5c4a に取りこんだ

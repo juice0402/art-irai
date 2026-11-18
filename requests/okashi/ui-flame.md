@@ -1,6 +1,6 @@
 # UI：鉄板の炎（3つの形・光るので黒い背景）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate stylized cooking fire flames on a flat solid black background (#0
 - 黒い背景のまま取りこみ、CSS の mix-blend-mode: screen で重ねる（緑を抜くと光のふちが緑になるため）→ ui-flame-tall・ui-flame-mid・ui-flame-wide
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 22時45分 合格（PR #86）。mazemaze-okashiya main fff5c4a に取りこんだ

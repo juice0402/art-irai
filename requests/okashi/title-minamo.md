@@ -1,6 +1,6 @@
 # タイトル画面のみなも：指先に飴細工の小鳥（全身）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：元の絵を編集する
@@ -24,4 +24,4 @@ Keep the same girl, face, outfit, colors and art style as the original image. Ch
 - H-023：タイトルの左うしろ。取りこむ名前は title-minamo（one … 760）。minamo が届いてから依頼中にする
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 22時45分 合格（PR #88）。mazemaze-okashiya main fff5c4a に取りこんだ
