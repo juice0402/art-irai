@@ -1,6 +1,6 @@
 # ほのかの立ち絵9まい（会話の部品・第1弾）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -67,4 +67,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - これは第1弾の1つめ。第1弾ののこり（お客さん4人の正面×3表情）は、これと bg2 が描き終わってから頼む（同時に依頼中は2つまで）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。honoka-yaruki・achaa・fuan・kuyashii・wakuwaku・uttori・kangaeru・kandou・doya として、まぜまぜおかし屋の assets/art に取りこんだ（元の絵と同じ四角 162,4,830,1528 で切って高さ760）

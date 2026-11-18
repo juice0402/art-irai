@@ -1,6 +1,6 @@
 # 朝と昼の画面の背景・プロローグの外観（3まい）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -36,4 +36,4 @@ Exterior of a small cozy wooden sweets shop at the edge of a gentle forest in th
 - H-002 の 1・2・4（昼のチャットのお願い）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。bg-day・bg-morning・bg-shop-out（16:9 の横960 webp）として取りこんだ
