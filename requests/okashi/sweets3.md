@@ -1,6 +1,6 @@
 # ★3のタワー：クッキー以外の6つ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@
 - 取りこむときは `prep_art.py parts … special-sable-tower special-castella-tower special-brownie-tower special-candy-tower special-jelly-tower special-puff-tower`（上限300）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 23時30分 合格（PR #95）。mazemaze-okashiya main 0ec3525 に取りこんだ
