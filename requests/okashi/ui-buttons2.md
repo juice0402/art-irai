@@ -1,6 +1,6 @@
 # UI：ボタンの押した形と使えない形（ui-buttons の絵を編集・2段）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -30,4 +30,4 @@ Edit this image: make every button look disabled. Keep exactly the same seven it
 - えらんだタブのリボンは ui-tab-bow に切りわけ済み（押した形・使えない形のタブのリボンは使わない）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。prep_art.py parts で7つずつ切って ui-<部品>-down・-off として取りこんだ（tab-on の2つはリボンを消した）。:active と disabled に使う

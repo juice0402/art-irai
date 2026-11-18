@@ -1,6 +1,6 @@
 # UI：パネル・会話の窓・名前の札・日記の紙
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), four separate 
 - 9つに切ってのばす（border-image）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18）。ui-panel・ui-window・ui-nameplate・ui-diary として取りこんだ（日記のテープは ui-diary-tape に切りわけ）。結果のパネル・会話の窓・名前の札・日記の紙に使う
