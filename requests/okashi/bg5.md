@@ -1,6 +1,6 @@
 # 背景：みなもの飴細工の工房（夕方）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A wide background illustration in soft anime painterly style with warm lighting,
 - 取りこむ名前は bg-candyworks（`prep_art.py bg`・960×540）→ assets/art-stock/
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/19 1時30分 合格（PR #114）。mazemaze-okashiya の assets/art-stock/ にストック
