@@ -1,6 +1,6 @@
 # ふしぎな素材：しずく寒天・ほしくずシュガー・ほのおカラメル
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ Three separate fantasy baking ingredients side by side with wide even spacing, m
 - 取りこむときは3等分に切って緑を抜く：`prep_art.py three … card-kanten card-hoshi card-karamel <上限>`（カードの絵は MATS の alt より card-<id> が先）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/18・PR #62）。card-kanten・card-hoshi・card-karamel として取りこんだ
