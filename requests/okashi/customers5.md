@@ -1,6 +1,6 @@
 # お客さんの見た目ちがい8人（ふつうの顔・妖精の子・けもみみの子・冒険者・魔女のおばあちゃんを2人ずつ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -61,4 +61,4 @@ A cheerful plump elderly witch grandmother with short curly silver hair and half
 - 取りこんだら、各段を `sources/okashi/cust5-<名前>.png`（例 cust5-kodomo-2.png）に置いてから、うれしい・ざんねんの customers6（-2 の4人）・customers7（-3 の4人）を頼む
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時20分 合格（PR #76）。8人を cust-<id>-2・-3 に（main af3f757）。8まいを sources/okashi/cust5-<id>-<2か3>.png に置いた

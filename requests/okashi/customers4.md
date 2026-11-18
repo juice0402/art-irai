@@ -1,6 +1,6 @@
 # お客さん4人の うれしい・ざんねん の顔（customers3 の編集）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -59,4 +59,4 @@ Keep the same witch grandmother, white bun, round glasses, purple witch hat, lav
 - 取りこむ名前は前と同じ cust-<id>-happy・cust-<id>-sad（奇数の段＝happy・偶数＝sad）・`prep_art.py one … 480`（ふつうの絵と同じ大きさ）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時20分 合格（PR #75）。8まいを cust-<id>-happy・-sad に（mazemaze-okashiya main af3f757）

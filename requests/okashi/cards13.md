@@ -1,6 +1,6 @@
 # こね生地の菓子パン：メロンパン生地・クリームパン・シナモンロール
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ Three separate fantasy bakery items side by side with wide even spacing, matchin
 - 取りこむときは `prep_art.py three … card-melonpan card-creampan card-cinnamon <上限>`（いまは candy-sable・candy-puff・candy-castella の仮の絵）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 18時20分 合格（PR #73）。card-melonpan・card-creampan・card-cinnamon（main af3f757）
