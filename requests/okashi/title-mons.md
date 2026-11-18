@@ -1,6 +1,6 @@
 # タイトル画面のモンスター5体：うれしそうに見上げる・はねる
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】（中身は【okashi-hiru】の H-023）
 やり方：元の絵を編集する
@@ -25,4 +25,4 @@ Keep the same five creatures with exactly the same shapes, colors, faces and art
 - 元の絵は、ゲームの mon-<id>（art-irai の monsters1・monsters2）を緑に並べたもの
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 21時40分 合格（PR #77）。mazemaze-okashiya の main に取りこんだ（位置合わせは昼のチャット）

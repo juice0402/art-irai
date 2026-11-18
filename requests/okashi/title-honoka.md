@@ -1,6 +1,6 @@
 # タイトル画面のほのか：泡立て器を高くかかげる（全身）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】（中身は【okashi-hiru】の H-023）
 やり方：元の絵を編集する
@@ -25,4 +25,4 @@ Keep the same girl, face, outfit, colors and art style as the original image: re
 - 取りこむ名前は title-honoka（`prep_art.py one … 760`）。立ち絵 honoka と同じ背の比で使う（昼のチャットの LG_CAST）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 21時40分 合格（PR #80）。mazemaze-okashiya の main に取りこんだ（位置合わせは昼のチャット）

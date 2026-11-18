@@ -1,6 +1,6 @@
 # タイトル画面の背景：夜のお店の前（縦）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】（中身は【okashi-hiru】の H-023）
 やり方：新しく描く
@@ -26,4 +26,4 @@ A tall vertical game title background, painted in the same soft anime painterly 
 - 来たら op-shop-night はけずってよい
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 21時40分 合格（PR #78）。mazemaze-okashiya の main に取りこんだ（位置合わせは昼のチャット）
