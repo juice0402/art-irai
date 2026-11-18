@@ -1,6 +1,6 @@
 # お客さん4人の正面の絵（ふつうの顔）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -41,4 +41,4 @@ A warm elderly grandmother with white hair in a neat round bun and small round g
 - こどもは会話の部品でもしゃべる（シナリオの⑬）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 2026-11-18 合格（PR #43）。4まいとも点検どおり。ゲームに cust-kodomo・cust-gakusei・cust-otona・cust-obaachan で取りこんだ。次は customers2（うれしい・ざんねん）
