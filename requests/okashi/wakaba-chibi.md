@@ -1,6 +1,6 @@
 # わかばのデフォルメ3まい（ショップのヒント用）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：元の絵を編集する
@@ -25,4 +25,4 @@ Three separate chibi (2 to 3 heads tall) versions of the same woman from the ori
 - 取りこむ名前は wakaba-chibi-think・wakaba-chibi-cheer・wakaba-chibi-sit（three … 320 --strict）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/19 0時15分 合格（PR #102）。mazemaze-okashiya main 5e603fc に取りこんだ

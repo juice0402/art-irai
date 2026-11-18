@@ -1,6 +1,6 @@
 # わかばの戦闘ポーズ6まい（右向き）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -50,4 +50,4 @@ Keep the same woman, outfit, colors, art style, and full-body framing with margi
 - 葉の色が緑に近いので取りこみは --strict か外側だけ抜く。wakaba が届いてから依頼中にする
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/19 0時15分 合格（PR #101）。mazemaze-okashiya main 5e603fc に取りこんだ

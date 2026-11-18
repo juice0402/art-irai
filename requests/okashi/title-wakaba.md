@@ -1,6 +1,6 @@
 # タイトル画面のわかば：くだもののかごを抱えてにっこり（全身）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：元の絵を編集する
@@ -24,4 +24,4 @@ Keep the same woman, face, outfit, colors and art style as the original image. C
 - H-023：タイトルの右うしろ。取りこむ名前は title-wakaba（one … 760）。wakaba が届いてから依頼中にする
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/19 0時15分 合格（PR #104）。mazemaze-okashiya main 5e603fc に取りこんだ
