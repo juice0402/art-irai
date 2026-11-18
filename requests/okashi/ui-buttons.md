@@ -1,6 +1,6 @@
 # UI：ボタン（大2・小2・タブ2・まる1）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,5 @@ A game UI asset sheet on a flat solid green background (#00FF00), items in four 
 - 11/18 しょーくん「ボタン・枠・フレームも妥協することなく全て絵を描き下ろしてほしい」「本気の1本にしたい」。素材は木と真ちゅう＋お菓子
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 合格。7つを prep_art.py parts で切った（ui-btn-red・ui-btn-wood・ui-pill-cream・ui-pill-choco・ui-tab-on・ui-tab-off・ui-round）。えらんだタブのリボンは上のまんなかにあって9分割でのびてしまうので、リボンだけ ui-tab-bow に切りわけ、タブの面はリボンの下の日よけを左からうつしてつないだ
+- 押した形・使えない形がない（11/18 司令塔の決まり）→ この絵を編集して ui-buttons2 で描く。PR #49 は取りこんで閉じた

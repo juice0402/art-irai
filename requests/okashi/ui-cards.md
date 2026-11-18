@@ -23,6 +23,7 @@ Four empty trading card frames side by side with even spacing on a flat solid gr
 ## Claude のメモ
 - カード（cards-ui.js の cardFace）のふち。窓に絵・リボンに名前・紙に効果・属性の帯と紋章はコードで重ねる
 - いまのふちの決まり（★1 銅・★2 銀・★3 金と虹の箔）はそのまま。4つめはフィールド
+- カードは同じ比率（5:7）のまま大きさだけ変わる（のばさない）ので、9分割にしない（11/18 確かめた）
 
 ## Claude の確認（ここは依頼したチャットが書く）
 - まだ
