@@ -1,6 +1,6 @@
 # UI：カードのふち（★1銅・★2銀・★3金・フィールド）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ Four empty trading card frames side by side with even spacing on a flat solid gr
 - カードは同じ比率（5:7）のまま大きさだけ変わる（のばさない）ので、9分割にしない（11/18 確かめた）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/18 23時 合格（PR #92）。mazemaze-okashiya main d32ccfb に取りこんだ（マス目で切った）
