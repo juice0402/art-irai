@@ -1,6 +1,6 @@
 # UI：味パワーの紋章・星・ななめの帯・まんぞくのハンコ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-18
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,4 +24,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), four separate 
 - 1＝カードとタイルの味パワーの紋章（powBadge・数字はコード）／2＝★／3＝おもてなしのはじめのななめの帯（battleIntro・ななめはコードで回す・9つに切って横にのばす）／4＝ラウンドの結果のハンコ（まんぞく！の字はコード）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 済（11/18・PR #65）：炎の紋章・金の星・横長の帯・花のハンコ、点検どおり。`prep_art.py parts` で ui-pow・ui-star・ui-band・ui-stamp に切って取りこんだ（mazemaze-okashiya b2aa60e）。帯は左右の折り返しを残して9分割でのばし、コードで-5度に回している
