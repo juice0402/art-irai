@@ -1,6 +1,6 @@
 # UI：ギンガムの布（朝の材料だな・天板・レシピ帳の下）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@
 - 取りこみ：`prep_art.py parts … ui-gingham ui-gingham-hem ui-gingham-tab`（1 はふちを切らずに正方形のまま・上限 256／2 は 480／3 は 96）。皮は共通の部品 .gingham（style.css）でリーダーが入れる
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 夕方 合格（PR #159）。mazemaze-okashiya main fceb833 に取りこんだ（ui-gingham 256・ui-gingham-hem 480・ui-gingham-tab 96）。共通の部品 .gingham の皮にした（地を少し暗くして上の字を読みやすく）

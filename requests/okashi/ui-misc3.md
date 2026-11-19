@@ -1,6 +1,6 @@
 # UI：朝昼の小さな札（数のバッジ・とくべつの札・名札・看板の札・空きのしるし2つ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@
 - 取りこみ：`prep_art.py parts … ui-badge ui-tag-gold ui-nametag ui-hangsign ui-empty-round ui-empty-sq`（上限 96・240・240・160・160・240）。取りこんだら、昼のチャットに名前と使い道を伝える（皮は昼のチャットが自分の CSS に入れてよい）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 夕方 合格（PR #158）。mazemaze-okashiya main fceb833 に取りこんだ（ui-badge 96・ui-tag-gold・ui-nametag・ui-empty-sq 240・ui-hangsign・ui-empty-round 160）。皮は昼のチャットが入れる
