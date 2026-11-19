@@ -1,6 +1,6 @@
 # ★3の大作の飴細工6つ（みなもの飴細工のカードを編集）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：編集
@@ -25,3 +25,4 @@ Edit this image. Keep the six items in exactly the same grid positions, the same
 - 取りこむときは `prep_art.py parts … special-amedai special-hakucho special-oshiro special-hanakago special-tsuya special-nobashi --strict --despill`（上限300・ガラスで緑がすける）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 9時50分 合格（PR #120）。mazemaze-okashiya に取りこむ
