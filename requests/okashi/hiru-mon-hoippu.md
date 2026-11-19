@@ -1,6 +1,6 @@
 # 朝のお菓子：ひつじホイップのお菓子7つ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@
 - 取りこむときは `prep_art.py parts <PNG> 256 sweet-hoippu-mugi sweet-hachimitsu-hoippu sweet-hoippu-milk sweet-egg-hoippu sweet-hoippu-ichigo sweet-hoippu-mizuame sweet-herb-hoippu`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 午前 合格（PR #140）。mazemaze-okashiya に取りこんだ
