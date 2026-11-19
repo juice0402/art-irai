@@ -1,6 +1,6 @@
 # 演出：大技の若葉の壁（わかば・画面の下から つると葉と花が いっせいにのびる・前と奥の2まい）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-20
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@ Two tall panels side by side, each filling its own half of the image, separated 
 - 取りこみ：左右に切って `fx-wall-wakaba-front`・`fx-wall-wakaba-back`（横480・若葉が緑に近いので `--strict`）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/20 朝 合格（PR #166）。mazemaze-okashiya main 32e3e19 に取りこんだ（fx-wall-wakaba-front・back 横480・--strict・まんなかの細い線は切った）。fireWall（奥 → 前の順にのびる）

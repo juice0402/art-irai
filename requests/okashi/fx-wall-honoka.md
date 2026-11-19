@@ -1,6 +1,6 @@
 # 演出：大技の炎の壁（ほのか・画面の下からメラメラ・2こま）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-20
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@ Two tall panels side by side, each filling its own half of the image, separated 
 - 取りこみ：左右に切って `fx-wall-honoka-a`・`fx-wall-honoka-b`（横480・黒い背景は明るさで すけに変える＝fx-burst と同じ）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/20 朝 合格（PR #167）。mazemaze-okashiya main 32e3e19 に取りこんだ（fx-wall-honoka-a・b 横480・黒い背景は明るさで すけに）。fireWall の炎の壁（せり上がって2こまでメラメラ）
