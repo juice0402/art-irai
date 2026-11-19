@@ -1,6 +1,6 @@
 # UI：お祭りの日の旗（横にくりかえすガーランド・昼）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@ A game UI asset on a flat solid green background (#00FF00): one long horizontal 
 - 取りこむときは `prep_art.py parts <PNG> 640 ui-garland`。左右のはしでひもがつながらないときは、ひもの高さでそろえて切りなおす
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 12時 合格（PR #151）。mazemaze-okashiya に取りこんだ（main d0b052a）
