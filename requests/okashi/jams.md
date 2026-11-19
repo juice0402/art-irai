@@ -1,6 +1,6 @@
 # わかばの作ったジャム（★3）：くだもの5つとミックス
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@
 - 取りこむときは `prep_art.py parts … jam-apple jam-berry jam-peach jam-mikan jam-grape jam-mix`（上の段から左→右・上限300）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 9時50分 合格（PR #119）。mazemaze-okashiya に取りこむ

@@ -1,6 +1,6 @@
 # わかばのフィールド3つ（のびのび肥料・すくすく肥料・デコレーション台）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@ Three separate fantasy sweets-shop items side by side with wide even spacing, ma
 - 取りこむときは `prep_art.py three … field-nobi field-suku field-decodai`（上限300）。葉が消えたら --strict
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 9時50分 合格（PR #118）。mazemaze-okashiya に取りこむ

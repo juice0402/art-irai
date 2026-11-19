@@ -1,6 +1,6 @@
 # ★3のくだものケーキ6つ（わかばのケーキのカードを編集）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：編集
@@ -25,3 +25,4 @@ Edit this image. Keep the six items in exactly the same grid positions, the same
 - 取りこむときは `prep_art.py parts … special-sponge special-tart special-roll special-deco special-chiffon special-hachiroll --strict`（上限300）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 9時50分 合格（PR #117）。mazemaze-okashiya に取りこむ
