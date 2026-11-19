@@ -1,6 +1,6 @@
 # 演出：一撃の衝撃（シェフごとに 衝撃の輪と斬撃の2つずつ・光るので黒い背景）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@
 - 取りこみ：`prep_art.py parts … fx-burst-honoka fx-burst-minamo fx-burst-wakaba fx-slash-honoka fx-slash-minamo fx-slash-wakaba`（上限 480）。黒い背景はそのまま（抜かない）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 夕方 合格（PR #163）。mazemaze-okashiya main 6395f0f に取りこんだ（fx-burst-*・fx-slash-* 上限480・黒い背景は明るさで すけに変えた）。impactFx で一撃の瞬間に出す
