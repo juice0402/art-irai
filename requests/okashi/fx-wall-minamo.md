@@ -1,6 +1,6 @@
 # 演出：大技の氷（みなも・画面の下を氷がおおう → ひびが入る → パリーンとわれる）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-20
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@ An effect sheet on a flat solid black background (#000000), matching the referen
 - 取りこみ：手で切って `fx-wall-minamo`（左半分・横480）・`fx-crack-minamo`（右上・横480）・`fx-shard-minamo-1`〜`6`（上限96）。黒い背景は明るさで すけに変える
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/20 朝 合格（PR #168）。mazemaze-okashiya main 32e3e19 に取りこんだ（fx-wall-minamo 横520・fx-crack-minamo 横480・fx-shard-minamo-1〜6 上限96・黒い背景は明るさで すけに）。fireWall と iceShatter（せり上がる → ひび3回 → パリーン）
