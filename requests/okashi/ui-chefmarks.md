@@ -1,6 +1,6 @@
 # UI：みなも・わかばの味パワーの紋章と舞台のメダル（炎はほのかだけ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), four separate 
 - 取りこむときは `prep_art.py parts <PNG> 180 ui-pow-minamo ui-pow-wakaba ui-medal-minamo ui-medal-wakaba --strict`
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 午前 合格（PR #135）。mazemaze-okashiya に取りこんだ

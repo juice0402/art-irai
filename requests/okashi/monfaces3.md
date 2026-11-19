@@ -1,6 +1,6 @@
 # 夜のお客さんの食べる顔とまんぞく顔：にじいろクラゲ・ミントうさぎ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：編集
@@ -30,3 +30,4 @@ Edit this image. Keep both monsters in exactly the same positions, the same size
 - 取りこむときは `prep_art.py two … mon-nijikurage-eat mon-mintousagi-eat --strict`（1段目）・`mon-nijikurage-happy mon-mintousagi-happy --strict`（2段目）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 午前 合格（PR #137）。mazemaze-okashiya に取りこんだ
