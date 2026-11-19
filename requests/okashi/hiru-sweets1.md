@@ -1,6 +1,6 @@
 # 朝のお菓子：基本素材どうし1（8つ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@
 - 取りこむときは `prep_art.py parts <PNG> 256 sweet-mugi-mugi sweet-hachimitsu-mugi sweet-milk-mugi sweet-egg-mugi sweet-ichigo-mugi sweet-hachimitsu-hachimitsu sweet-hachimitsu-milk sweet-egg-hachimitsu`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 朝 合格（PR #125）。mazemaze-okashiya に取りこんだ
