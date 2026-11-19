@@ -1,6 +1,6 @@
 # 朝のお菓子：きらきらミントのお菓子7つ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@
 - 取りこむときは `prep_art.py parts <PNG> 256 sweet-minto-mugi sweet-hachimitsu-minto sweet-milk-minto sweet-egg-minto sweet-ichigo-minto sweet-minto-mizuame sweet-herb-minto --strict`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 昼 合格（PR #145）。mazemaze-okashiya に取りこんだ（parts 192）
