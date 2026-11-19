@@ -1,6 +1,6 @@
 # 夜のお客さんの食べる顔とまんぞく顔：スライム・くもひつじ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：編集
@@ -30,3 +30,4 @@ Edit this image. Keep both monsters in exactly the same positions, the same size
 - 取りこむときは `prep_art.py two … mon-slime-eat mon-hitsuji-eat`（1段目）・`mon-slime-happy mon-hitsuji-happy`（2段目）。mon-slime と同じ四角で切る
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 朝 合格（PR #131）。mazemaze-okashiya に取りこんだ
