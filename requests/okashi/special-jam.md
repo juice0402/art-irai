@@ -1,6 +1,6 @@
 # ★3の飴ジャムのカード6つ（わかばのジャムのカードを編集）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：編集
@@ -25,3 +25,4 @@ Edit this image. Keep the six items in exactly the same grid positions, the same
 - 取りこむときは `prep_art.py parts … special-garabin special-jamnabe special-ichijam special-shimejam special-torojam special-kirakira --strict --despill`（上限300）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 朝 合格（PR #126）。mazemaze-okashiya に取りこんだ
