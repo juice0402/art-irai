@@ -1,6 +1,6 @@
 # 演出：スペシャル発動の帯（カットイン・シェフごとに3本）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@
 - 取りこみ：`prep_art.py parts … fx-cutin-honoka fx-cutin-minamo fx-cutin-wakaba`（たてに3つに切る・横960）。3 の若葉が緑に近いので `--strict`
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 夕方 合格（PR #160）。mazemaze-okashiya main fceb833 に取りこんだ（fx-cutin-honoka・minamo・wakaba 横960・--strict）。cutIn の帯 .ci-band.art（cover・右よりを見せる）
