@@ -1,6 +1,6 @@
 # UI：レシピ帳の本・まだのふた・売れた！の札・小鳥・ちょうちょ（朝昼）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), five separate 
 - 取りこむときは `prep_art.py parts <PNG> 240 ui-book ui-mada ui-sold fx-bird fx-butterfly`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 12時 合格（PR #150）。mazemaze-okashiya に取りこんだ（main d0b052a）

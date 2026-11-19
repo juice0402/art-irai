@@ -1,6 +1,6 @@
 # 雑貨屋のグッズ7つ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@
 - 取りこむときは `prep_art.py parts <PNG> 128 good-tatekanban good-showcase good-hana good-cushion good-lamp good-garland good-plant --strict`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 12時 合格（PR #149）。mazemaze-okashiya に取りこんだ（main d0b052a）
