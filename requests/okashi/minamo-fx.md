@@ -1,6 +1,6 @@
 # エフェクト：みなもの夜の空気（雪の結晶・飴の泡・氷のかけら・霜のすみ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@ A game effect asset sheet on a flat solid green background (#00FF00), four separ
 - 取りこむときは `prep_art.py parts <PNG> 320 fx-snow fx-bubble fx-iceshard fx-frost --strict`（上の段から左→右・水色があるので --strict。泡の中は緑で抜けるので、中まで抜けているか見る）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 12時半 合格（PR #155）。mazemaze-okashiya に取りこんだ（main c66707f・4つのます目で切って、緑のすけは明るさで作りなおした）
