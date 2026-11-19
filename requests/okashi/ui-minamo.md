@@ -1,6 +1,6 @@
 # UI：みなもの夜の霜・湯気・大きさのしずく4つ・固まったしずく ＋ 昼のおそろいのリボン
 
-状態：依頼中
+状態：済
 依頼日：2026-11-19
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,3 +26,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), eight separate
 - 取りこむときは `prep_art.py parts … ui-frost ui-steam ui-drop0 ui-drop1 ui-drop2 ui-drop3 ui-drop-ice ui-soroi`（上の段から左→右）。霜と湯気は白くすけるので gridcut の --despill
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/19 午前 合格（PR #136）。mazemaze-okashiya に取りこんだ
