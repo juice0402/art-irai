@@ -1,6 +1,6 @@
 # 新しいお客さん：行商のたぬき（ポン吉・ポン太・3人目）のうれしい・ざんねんの顔
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi-hiru】
 やり方：編集（元の絵を直す）
@@ -48,3 +48,6 @@ Keep the same character, character, fur colors and markings, outfit, accessories
 ## Claude のメモ
 - 11/21 しょーくん「常連さん大量に増やす」→ 新しい種族3つ（new-elf・new-vamp・new-tanuki）の表情
 - 取りこむ名前は cust-tanuki・cust-tanuki-2・cust-tanuki-3 の -happy（奇数の段）・-sad（偶数の段）・`prep_art.py one … 480`
+
+## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 合格（PR #206）。まぜまぜおかし屋の枝 hiru/newcust（PR #29）に cust-tanuki・-2・-3 の -happy・-sad として取りこんだ
