@@ -1,6 +1,6 @@
 # 夜の舞台の背景（シェフごと2まい）：みなもの飴の工房・わかばの温室のキッチン
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -30,3 +30,4 @@ Interior of a small cozy greenhouse kitchen at night, wide horizontal view, the 
 - 取りこむときは bg-night と同じ横960にして webp。上下はコードで暗くする
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 12時半 合格。mazemaze-okashiya の main b876b59 に取りこんだ（Version 144）

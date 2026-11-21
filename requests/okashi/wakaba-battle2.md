@@ -1,6 +1,6 @@
 # わかばの戦闘ポーズ（追加4まい・右向き）：中くらいの攻撃・大きい攻撃・育てる・びんに入れる
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -40,3 +40,4 @@ Keep the same woman, outfit, colors, braid, art style, and full-body framing wit
 - 1 wakaba-atk2・2 wakaba-atk3・3 wakaba-grow（POSE の field＝育つ・水やり）・4 wakaba-jar（飴ジャムの夜の support）。取りこんだら night-ui.js の POSE_WAKABA と feet.js
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 12時半 合格。mazemaze-okashiya の main b876b59 に取りこんだ（Version 144）

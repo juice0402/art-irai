@@ -1,6 +1,6 @@
 # みなもの戦闘ポーズ（追加4まい・右向き）：中くらいの攻撃・大きい攻撃・温める・冷やす
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -40,3 +40,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - 1 minamo-atk2・2 minamo-atk3・3 minamo-heatup・4 minamo-heatdown。取りこんだら night-ui.js の POSE_MINAMO と feet.js（tools/feet.py）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 12時半 合格。mazemaze-okashiya の main b876b59 に取りこんだ（Version 144）
