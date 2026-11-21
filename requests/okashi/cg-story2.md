@@ -1,6 +1,6 @@
 # 物語の一枚絵（CG）その2：わかばが仲間に・にじいろクラゲの夜・3人そろったお店
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -34,3 +34,4 @@ A wide illustration in the same soft anime painterly style and warm lighting as 
 - 物語の一枚絵（11/21 しょーくん）。1 cg-wakaba（わかばが仲間に）・2 cg-niji（にじいろクラゲの夜）・3 cg-three（3人そろったお店）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 13時半 合格。mazemaze-okashiya に取りこんだ

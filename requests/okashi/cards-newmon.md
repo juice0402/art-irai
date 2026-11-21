@@ -1,6 +1,6 @@
 # 新しい夜のお客さんがくれる素材のカードの絵4つ：カカオ豆・カスタード・抹茶の粉・ポップコーン
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,3 +24,4 @@ Four separate sweet ingredients in the same soft anime painterly style, size and
 - 合格したら、朝のお菓子（hiru-mon-<素材>・7つずつ）の参考の絵 mat-ref-<素材> にもする
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 13時半 合格。mazemaze-okashiya に取りこんだ
