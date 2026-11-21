@@ -1,6 +1,6 @@
 # 一枚絵 cg-night1 の直し：ほのかの服の前後（うしろ向きなのに、エプロンの前が見えている）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi-hiru】
 やり方：編集（元の絵を直す）
@@ -32,4 +32,4 @@ Edit the original image. Turn only the red-haired girl so that her body faces th
 - 取りこみ：16:9 のまま cg-night1（960×540）に入れかえ
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/21 しょーくんが2（こっち向き）をえらんだ。服の前後は合った（顔は右向き）。mazemaze-okashiya の hiru/cg（PR #33）に cg-night1 として入れた
