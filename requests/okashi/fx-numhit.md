@@ -1,6 +1,6 @@
 # 演出：数字がモンスターにぶつかった瞬間の大きな衝撃（シェフごと・光るので黒い背景）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -23,3 +23,4 @@
 - 取りこむときは fx-numhit-honoka・-minamo・-wakaba（上の段）と fx-scatter-honoka・-minamo・-wakaba（下の段）。黒は明るさで すけに（fx-burst と同じ）。battle-fx.js の hitFx・impactFx で、数字がぶつかった瞬間に重ねる
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 13時 合格。mazemaze-okashiya に取りこんだ

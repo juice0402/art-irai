@@ -1,6 +1,6 @@
 # 新しい夜のお客さん4体：チョコもぐら・プリンペンギン・まっちゃガエル・ポップコーンりす
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@ Four cute food monsters in the same soft anime painterly style, proportions, siz
 - 合格したら、この絵を元の絵にして 食べる顔・まんぞく顔・しょんぼり顔（monfaces4）とモブ（mobs-chibi3）をたのむ
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 13時 合格。mazemaze-okashiya に取りこんだ
