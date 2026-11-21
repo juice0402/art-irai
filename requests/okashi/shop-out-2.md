@@ -1,6 +1,6 @@
 # お店の外観の描きなおし：中（昼の販売）と同じ形で、大きめの家に
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi-hiru】
 やり方：編集（元の絵を直す）
@@ -33,4 +33,4 @@ Edit the original image. Keep the same soft anime painterly style, the same sunr
 - 取りこみ：16:9 に切って bg-shop-out（960×540）。プロローグの看板の字の場所は、リーダーの flow.js・style-talk.css で合わせなおす
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/21 しょーくんが2（少し引く）をえらんだ。中の絵とくらべると、窓の内がわに棚とびんが並んでいる（中の窓は森が見えて窓べに花の鉢）・ドアの外に鈴 → shop-out-3 で窓だけ直す（元の絵は sources/okashi/shop-out-2b.png＝この2まいめ）
