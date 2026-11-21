@@ -1,6 +1,6 @@
 # UI：あしたの予報のマーク（ふつうの日と、昼のできごと6つ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi-hiru】
 やり方：新しく描く
@@ -24,3 +24,6 @@
 - 11/21 しょーくん「明日はイベントだから妖精がたくさんくる、みたいなお気に入り予想を立てて戦略が練れる」→ えらぶ質問で「あしたの予報」（1日のまとめの日記に、あしたの顔ぶれと人気の味のヒント）
 - 使い道：あしたの予報の札（ui-forecast）と、朝のキッチンの上の小さな今日のマーク。1 ふつうの日（fc-hare）・2〜7 は昼のできごと DAY_EVENTS の rain・matsuri・ensoku・kotori・kaze・majo
 - 取りこみ：`prep_art.py parts … fc-hare fc-rain fc-matsuri fc-ensoku fc-kotori fc-kaze fc-majo`（上限 160）
+
+## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 合格（PR #213）。まぜまぜおかし屋の枝 hiru/puzzle に fc-hare・fc-rain・fc-matsuri・fc-ensoku・fc-kotori・fc-kaze・fc-majo（parts 160） として取りこんだ

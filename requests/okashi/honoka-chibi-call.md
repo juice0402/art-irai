@@ -1,6 +1,6 @@
 # ほのかのデフォルメ（ちびキャラ）2ポーズ：呼びこみ・補充
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi-hiru】
 やり方：編集（元の絵を直す）
@@ -28,3 +28,6 @@ Redraw this same girl as a cute super-deformed chibi mascot, about two heads tal
 ## Claude のメモ
 - 11/21 しょーくん「お昼を夜レベルに面白く」→ えらぶ質問で「営業中も少しさわれる」（呼びこみ・天板から補充）。昼の舞台の左下のチビキャラ（chibi-think・chibi-cheer・chibi-sit とならぶ）
 - 取りこみ：`prep_art.py one … chibi-call 320`・`chibi-carry 320`
+
+## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 合格（PR #212）。まぜまぜおかし屋の枝 hiru/puzzle に chibi-call・chibi-carry（one 320） として取りこんだ
