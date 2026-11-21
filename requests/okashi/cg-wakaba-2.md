@@ -1,6 +1,6 @@
 # 一枚絵 cg-wakaba の描きなおし：お店の中に、わかばがハーブのかごをかかえて入ってくる
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi-hiru】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A wide illustration in the same soft anime painterly style and warm lighting as 
 - 取りこみ：16:9 に切って cg-wakaba（960×540）に入れかえ
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/21 22時すぎ 合格（しょーくん）。mazemaze-okashiya の PR #33（hiru/cg）に cg-wakaba として入れた。Codex の PR は閉じる
