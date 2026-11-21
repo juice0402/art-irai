@@ -1,6 +1,6 @@
 # 夜のお客さんの しょんぼり顔（7体）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：編集
@@ -24,3 +24,4 @@ Edit this image. Keep all seven monsters in exactly the same positions, the same
 - 取りこむときは1体ずつ切って、mon-<id> と同じ四角にそろえる（mon-<id>-sad）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 12時半 合格。mazemaze-okashiya の main b876b59 に取りこんだ（Version 144）
