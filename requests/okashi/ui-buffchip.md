@@ -1,6 +1,6 @@
 # 効果の札（2回発動・＋60 など）の新しい枠：かっこいいリボンの札 5色
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -24,3 +24,4 @@ A game UI asset sheet on a flat solid green background (#00FF00), five separate 
 - 取りこむときは ui-buff-gold・ui-buff-ember・ui-buff-pink・ui-buff-mint・ui-buff-koge。.fchip の border-image をさしかえる（左右のはしの幅をはかって9分割）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 13時 合格。mazemaze-okashiya に取りこんだ

@@ -1,6 +1,6 @@
 # 物語の一枚絵（CG）その1：開店の朝・はじめての夜・みなもが仲間に
 
-状態：依頼中
+状態：済
 依頼日：2026-11-21
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -35,3 +35,4 @@ A wide illustration in the same soft anime painterly style and warm lighting as 
 - 会話の場面で大きく出す（talk.js に一枚絵を足す・どの会話で出すかは昼のチャットの story.js）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/21 13時 合格。mazemaze-okashiya に取りこんだ
