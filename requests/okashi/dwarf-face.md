@@ -1,6 +1,6 @@
 # 夜市の行商人（ドワーフの女の子）の表情4つ：にっこり・おどろき・ウインク・こまり
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -41,4 +41,4 @@ Keep the same girl, hair, hat, cloak, outfit, lantern, accessories, colors, art 
 - 取りこみは prep_art.py の box で元の dwarf と同じ四角に（上限1520）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/22 22時 合格。dwarf-joy・dwarf-wow・dwarf-wink・dwarf-komari（box 131,7,802,1509＝dwarf と同じ四角）で取りこんだ
