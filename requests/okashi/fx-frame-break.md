@@ -1,6 +1,6 @@
 # エフェクト：オーバーランで額縁がこわれる（木のふちのひび・割れ・穴と、とびちる木のかけら）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A game effect asset sheet on a flat solid green background (#00FF00), eight sepa
 - 取りこむときは `prep_art.py parts <PNG> 300 fx-fbreak-crack fx-fbreak-chip fx-fbreak-hole fx-fbreak-lines fx-wood-splinter fx-wood-chunk fx-wood-trim fx-wood-chips`（上の段から左→右）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/22）。8つとも parts で切って取りこんだ（fx-fbreak-*・fx-wood-*）。ひび→欠け→穴の順に同じ所がこわれる
