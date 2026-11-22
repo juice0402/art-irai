@@ -1,6 +1,6 @@
 # 夜市の背景（お店の前の、行商人の屋台・たて長）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A tall vertical night scene at the edge of a forest, in front of the small woode
 - 重ね方：この背景 → 行商人 dwarf（まんなか）→ 屋台のカウンター ichi-counter（ichi-ui の1）→ その上にコードでカード4まい。取りこみは ichi-bg（たて長のまま・上限1520）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/22 21時半 合格（しょーくん「夜市めっちゃいいね」）。mazemaze-okashiya に ichi-bg（横720）で取りこんだ
