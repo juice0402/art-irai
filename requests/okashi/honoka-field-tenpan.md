@@ -1,6 +1,6 @@
 # ほのかの戦闘ポーズ「天板で焼く」：鉄のなべ → クッキーがならんだ天板に描きなおす
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：編集（元の絵を直す）
@@ -25,4 +25,4 @@ Keep the same girl, outfit, colors, art style, and full-body framing with margin
 - 取りこむときは名前を honoka-field のまま。元の絵（honoka-battle）と同じ四角で切る（`prep_art.py box … honoka-field 1000 42,168,991,1341`）→ tools/feet.py をかけなおす（天板の下の炎が足もとに入るなら FIX も見なおす）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/22）。同じ女の子・右向き・クッキーの天板。honoka-field として取りこんだ（同じ四角で切った）
