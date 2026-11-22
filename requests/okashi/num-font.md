@@ -1,6 +1,6 @@
 # 文字の絵：バトルのダメージの数字（0〜9・，・．・万・億・兆・京）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A game font asset sheet for big damage numbers in a cozy fantasy sweets-shop car
 - 取りこむときは `prep_art.py parts <PNG> 200 num-0 num-1 … num-kei --strict`（上の段から左→右・金色に緑が混ざらないように --strict）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/22）。16こ parts で切って取りこんだ（num-*）。漢字の形も正しい
