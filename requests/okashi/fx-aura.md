@@ -1,6 +1,6 @@
 # エフェクト：シェフがまとう霧（火・赤・冷気・若葉・パステル）と、火の粉・妖精の光・キラキラ
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A game effect asset sheet on a flat solid pure black background (#000000), eight
 - 取りこむときは `python3 -I tools/glow_art.py <PNG> 4x2 <上限> fx-aura-fire fx-aura-kone fx-aura-cold fx-aura-leaf fx-aura-candy fx-ember fx-fairy fx-twinkle`（霧は 520・小さい3つは別に 160 で切りなおす）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/22）。8つとも glow_art で切って取りこんだ（fx-aura-*・fx-ember・fx-fairy・fx-twinkle）
