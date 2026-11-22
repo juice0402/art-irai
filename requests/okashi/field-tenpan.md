@@ -1,6 +1,6 @@
 # ほのかの天板（場のカード）：鉄のなべ → クッキーがならんだ天板に描きなおす
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A single fantasy bakery object matching the center cookie in the reference image
 - 取りこむときは名前を field-teppan のまま（prep_art で field-teppan.webp を作りなおす・ART.md の行を直す）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/22）。field-teppan として取りこんだ（1536×1024 で来たが、まんなかに1つなので one で切った）
