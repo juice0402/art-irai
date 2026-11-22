@@ -1,6 +1,6 @@
 # 演出：ちいさなキャンディの夜の一撃（光るので黒い背景）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -23,3 +23,4 @@
 - 取りこむときは 3×2 に切って 黒は明るさで すけに（tools/glow_art.py）：fx-burst-candy・fx-slash-candy・fx-numhit-candy（上の段）／fx-scatter-candy・fx-candy-ring・fx-candy-swirl（下の段）。battle-fx.js の impactFx・chefFlourish（キャンディの夜）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/22 合格。mazemaze-okashiya に取りこんだ（Version 170）
