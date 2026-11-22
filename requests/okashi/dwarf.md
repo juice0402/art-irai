@@ -1,6 +1,6 @@
 # 夜市の行商人：ランタンの夜商人のドワーフの女の子（立ち絵・ふつうの顔）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-22
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A petite cheerful young dwarf girl who looks about sixteen, short and sturdy, wi
 - 取りこみは dwarf（上限1520・tools/feet.py）。ランタンの光はそのまま
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/22 21時半 合格（しょーくん「夜市めっちゃいいね」）。dwarf（上限1520）で取りこんだ・表情は dwarf-face
