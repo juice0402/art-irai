@@ -1,6 +1,6 @@
 # UI：昼と夜の切りかえの円盤（上が昼・下が夜）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-23
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@ A single perfectly round decorative medallion disc, centered and large, on a pla
 - 取りこみは prep_art.py の one で dn-disc.webp（まるく切る）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/23 11時 合格（PR #337 の1回目）。prep_art.py one（高さ600）・slim 済で dn-disc として取りこんだ
