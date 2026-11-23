@@ -1,6 +1,6 @@
 # アプリのアイコン 案B：スライムがクッキーをぱくっ（キャラメル色の地）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-24
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A square mobile game app icon, 1024x1024, full-bleed artwork that fills the whol
 - 取りこみ：えらばれたら 1536×1024 のときは まんなかを 1024 の四角に切る → mazemaze-okashiya の docs/kobo/icon.png →【ios】に知らせる
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/24 描けた（PR #344・1254×1254）。小さくしてもはっきりしていたが、しょーくんは 案A（顔を大きく）をえらんだ＝使わない。絵は art-irai の枝 art/okashi-app-icon-b に残っている（宣伝などで使うかも）
