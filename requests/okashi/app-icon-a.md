@@ -1,6 +1,6 @@
 # アプリのアイコン 案A：ほのかの顔のアップ（キャラメル色の地）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-24
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A square mobile game app icon, 1024x1024, full-bleed artwork that fills the whol
 - 取りこみ：1536×1024 で来たら まんなかを 1024 の四角に切る → mazemaze-okashiya の docs/kobo/icon.png（1024×1024・PNG・透明なし）→【ios】に知らせる
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 11/24 合格（PR #343 の1回目・1254×1254 で来た）。しょーくんが「案A（顔を大きく）」をえらんだ＝左7%・上0から 幅80% の四角に切りぬいて 1024×1024 の PNG に → mazemaze-okashiya の docs/kobo/icon.png（main 069da11）。泡立て器の炎は少し切れる
