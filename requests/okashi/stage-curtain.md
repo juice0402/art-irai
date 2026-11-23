@@ -1,6 +1,6 @@
 # UI：夜の舞台の幕（左・右・上の飾り）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-23
 依頼したチャット：【okashi】
 やり方：新しく描く
@@ -25,3 +25,4 @@ Three separate game UI parts of a cozy theater stage curtain, on a plain solid g
 - 取りこみは prep_art.py の parts で stage-curtain-top・stage-curtain-l・stage-curtain-r（ゲームの battle-fx.js の curtainHTML がこの3つの名前を見る。3つそろうと CSS の仮の幕から絵にかわる）。幕は舞台の大きさにのばして使う（たてのひだなので、のびても目立たない）
 
 ## Claude の確認（ここは依頼したチャットが書く）
+- 11/23 13時 合格（PR #340 の1回目）。prep_art.py parts（幅760）・slim 済で stage-curtain-top・-l・-r として取りこんだ（mazemaze-okashiya）
