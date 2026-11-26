@@ -1,6 +1,6 @@
 # 気（オーラ）の部品 その2：火の粉2つ・筆の稲妻2つ・疾風の筆の筋2つ・金の粉・湯気
 
-状態：依頼中
+状態：済
 依頼日：2026-11-26
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A game effect asset sheet on a flat solid pure black background (#000000), eight
 - 取りこむときは 4×2 に切って黒をすけさせる（ki-ember1・ki-ember2・ki-bolt1・ki-bolt2・ki-wind1・ki-wind2・ki-gold・ki-steam）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/26）。8つとも取りこんだ（ki-ember1・2・ki-bolt1・2・ki-wind1・2・ki-gold・ki-steam）

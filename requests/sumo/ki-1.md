@@ -1,6 +1,6 @@
 # 気（オーラ）の部品 その1：桜の花びら3つ・和紙の紙吹雪5色
 
-状態：依頼中
+状態：済
 依頼日：2026-11-26
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A game particle asset sheet on a flat solid pure green background (#00FF00), eig
 - 取りこむときは 4×2 に切って緑を抜く（ki-petal1〜3・ki-conf-shu・ki-conf-ai・ki-conf-kin・ki-conf-midori・ki-conf-kinari）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/26）。8つとも取りこんだ（ki-petal1〜3・ki-conf-*）
