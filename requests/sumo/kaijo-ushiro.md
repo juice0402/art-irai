@@ -1,6 +1,6 @@
 # 本場所の会場：観客（うしろ姿）12人
 
-状態：依頼中
+状態：済
 依頼日：2026-11-27
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A game asset sheet on a flat solid pure green background (#00FF00): twelve separ
 - 取りこむときは tools/kaijo_cut.py crowd でシートのまま（kaijo-ushiro・1人ずつの四角を探す）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/27）。12人とも取りこんだ（シートのまま kaijo-ushiro・`tools/kaijo_cut.py crowd --dilate 2`）
