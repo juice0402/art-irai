@@ -1,6 +1,6 @@
 # 紙質のテクスチャ その1：和紙・金箔・墨流し（つなぎ目のない1枚ずつ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-26
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -36,4 +36,4 @@ A seamless tileable texture, perfectly square, a flat sheet of paper seen straig
 - 取りこむときは、2×2 に並べてつなぎ目を見る。目立つときは、はしを少しまぜてなじませる
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/26）。3枚とも 2×2 でつなぎ目なし。tex-washi・tex-kinpaku・tex-suminagashi として取りこんだ
