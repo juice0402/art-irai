@@ -1,6 +1,6 @@
 # 紙質のテクスチャ その2：半紙・藁半紙・桜の和紙・若草の和紙・藍の和紙（つなぎ目のない1枚ずつ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-26
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -46,4 +46,4 @@ A seamless tileable texture, perfectly square, a flat sheet of paper seen straig
 - 取りこむときは、2×2 に並べてつなぎ目を見る
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/26）。5枚とも取りこんだ（藁半紙・桜・若草・藍は色を地の色に合わせた・tex-hanshi・tex-wara・tex-sakura・tex-wakakusa・tex-ai）

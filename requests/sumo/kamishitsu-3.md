@@ -1,6 +1,6 @@
 # 紙質のテクスチャ その3：千代紙・麻の葉・千代紙・青海波・千代紙・市松・新聞紙・雲母刷り（つなぎ目のない1枚ずつ）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-26
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -46,4 +46,4 @@ A seamless tileable texture, perfectly square, a flat sheet of paper seen straig
 - 取りこむときは、2×2 に並べてつなぎ目を見る
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/26）。5枚とも取りこんだ（青海波はくり返しの長さで・麻の葉は線がずれるので2周期を切り出した・tex-asanoha・tex-seigaiha・tex-ichimatsu・tex-shinbun・tex-kira）
