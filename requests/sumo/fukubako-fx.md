@@ -1,6 +1,6 @@
 # 福箱を開ける演出の部品：白い煙2つ・金箔のかけら2つ・金のきらめき・光の筋
 
-状態：依頼中
+状態：済
 依頼日：2026-11-26
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A game effect asset sheet on a flat solid pure black background (#000000), six s
 - 取りこむときは 3×2 に切って、黒をすける形にする（明るさ → すけ具合・または重ねるとき明るくする）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/26）。sumo-game の assets/art/ に取りこんだ（fx-smoke・fx-wisp・fx-ray・fx-leaf1・fx-leaf2・fx-glint）
