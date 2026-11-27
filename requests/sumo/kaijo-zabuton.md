@@ -1,6 +1,6 @@
 # 本場所の会場：舞う座布団4色
 
-状態：依頼中
+状態：済
 依頼日：2026-11-27
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -25,4 +25,4 @@ A game asset sheet on a flat solid pure green background (#00FF00): four separat
 - 取りこむときは tools/kaijo_cut.py crowd でシートのまま（kaijo-zabuton・4つの四角）
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/27）。4色とも取りこんだ（シートのまま kaijo-zabuton・左から朱・紫・藍・黄）
