@@ -1,6 +1,6 @@
 # 本場所の会場：懸賞旗を持つ呼出し4人（旗は字なし・4色）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-28
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -26,4 +26,4 @@ A game asset sheet on a flat solid pure green background (#00FF00): four separat
 - いまのコードの旗の色（data/venue.js の kenshoCol）は7色。絵は4色をくり返す
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/28）。取りこんだ（sumo-game PR #21・assets/art/kaijo-kensho.webp・旗の四角は src/data/kaijoart.js）
