@@ -1,6 +1,6 @@
 # 土俵スキン その2：漆・墨流し・金屏風（上の面の1枚絵3つ＋横の面の帯3本）
 
-状態：依頼中
+状態：済
 依頼日：2026-11-28
 依頼したチャット：【sumo】
 やり方：新しく描く
@@ -41,4 +41,4 @@ Three separate long horizontal strips stacked vertically, each strip spanning th
 - 取りこむときは、輪を重ねた見本と、取組の真横のカメラで確かめる
 
 ## Claude の確認（ここは依頼したチャットが書く）
-- まだ
+- 合格（11/28）。ぜんぶ取りこんだ（sumo-game PR #20・assets/art/dohyo-*-top・-side。細長い帯は左右のはしを残してまん中でつないだ）
